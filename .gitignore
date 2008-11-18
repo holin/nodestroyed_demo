@@ -7,3 +7,4 @@ config/mongrel_cluster.yml
 .DS_Store
 public/photos
 nbproject
+db/schema.rb
