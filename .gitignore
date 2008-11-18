@@ -1,0 +1,9 @@
+log/*.log
+log/*.pid
+tmp/**/*
+tmp/restart.txt
+config/database.yml
+config/mongrel_cluster.yml
+.DS_Store
+public/photos
+nbproject
